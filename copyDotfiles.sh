@@ -10,7 +10,6 @@ trackedDotfilePaths=(~/.config/picom.conf
 					 ~/.config/i3
 					 ~/.config/i3status
 					 ~/.Xresources
-					 ~/.xscreensaver
 					 ~/.bashrc
 					 ~/.bash_profile
 					 ~/.vim
